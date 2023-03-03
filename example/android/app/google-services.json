@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "492222292903",
+    "project_id": "test-project-e6c3f",
+    "storage_bucket": "test-project-e6c3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492222292903:android:26038de96ae422b0410c82",
+        "android_client_info": {
+          "package_name": "build.milk.authentication.milk_authentication_framework_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492222292903-d18pcnqt7m45f6a2ce9f2qd38113n2j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rRgVVaDwg175CrPOnmOncvIVZku_SqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492222292903-d18pcnqt7m45f6a2ce9f2qd38113n2j0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492222292903-ds8ho2tij7au6m1r7nv6l8ga9ogbgne9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "build.milk.authentication.milkAuthenticationFrameworkExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
